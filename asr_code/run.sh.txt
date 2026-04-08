@@ -1,0 +1,5 @@
+#!/bin/bash
+# 音频文件识别（适配任务二克隆配音）
+python main.py 1 ../audio/clone_voice.mp3
+# 麦克风实时识别（注释上方，打开下方即可）
+# python main.py 2
